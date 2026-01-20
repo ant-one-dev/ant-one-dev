@@ -13,6 +13,7 @@ Embedded and software engineer focused on **IoT devices**, **firmware developmen
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge)
 ![Firmware](https://img.shields.io/badge/Firmware-4A4A4A?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 - Firmware development  
 - Communication protocols: UART, SPI, I²C, MQTT  
