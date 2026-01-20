@@ -1,82 +1,49 @@
-### Hi there! ✌️
+# 🚀 Ant-one-dev
 
-# 🚀 AnToIn-E-CoDe 
+## Embedded Systems & IoT Engineer  
 
-## Web Developer & Software Engineer  
+Embedded and software engineer focused on **IoT devices**, **firmware development**, and **software–hardware integration**.
 
-Passionate about algorithms and creative problem-solving, I aim to build innovative and entertaining solutions using technology.
 
----
 
-## 🌍 About Me  
+## 🔧 Skills  
 
-- 🏙️ **Location**: Paris, France  
-- 🔥 **Passionate about**: Algorithms, AI, and creative coding   
-- 🎯 **Hobbies**: Development, Music, Art
-- ⚡ **Fun fact**: *I'm Batman... or am I?* 😶‍🌫️  
+### Embedded & IoT  
+![Espressif](https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge)
+![Firmware](https://img.shields.io/badge/Firmware-4A4A4A?style=for-the-badge)
 
-<div align="center">
-  <a href="https://github.com/AnToIn-E-CoDe">
-    <img src="https://img.shields.io/github/followers/AnToIn-E-CoDe?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers"/>
-  </a>
-</div
+- Firmware development  
+- Communication protocols: UART, SPI, I²C, MQTT  
+- Connected devices & sensors  
 
 ---
 
-## 🛠 Tech Stack  
-
-### **💻 Programming Languages**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
-
-### **🖥️ Frontend & UI**  
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### 🛢️ Databases  
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-
-### **🔧 Tools & Platforms**  
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+### 💻 Programming Languages  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects  
+### 🌐 Software & Web  
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-### 🖼️ **Image Editor (Rust)**  
-A lightweight image editor built with Rust & `eframe`, allowing users to edit, filter, and transform images with ease.  
-
-<p align="center">
-  <a href="https://github.com/AnToIn-E-CoDe/image-editor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnToIn-E-CoDe&repo=image-editor&theme=radical" alt="Image Editor Repo" />
-  </a>
-</p>
-
+- Web dashboards  
+- Device monitoring interfaces  
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnToIn-E-CoDe&show_icons=true&theme=radical"  height="50%"/>
-  </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnToIn-E-CoDe&layout=compact&langs_count=8&theme=radical" />
-</p>
+### 🔧 Tools  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 
-
----
-
-🚀 **Keep coding and stay awesome!** 🎯
