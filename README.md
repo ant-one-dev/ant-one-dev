@@ -15,7 +15,7 @@ I work where hardware meets software:
 
 - ⚡ **FPGA & digital design.** Synchronous logic in VHDL on Artix-7, FSMs, custom ALUs.
 - 🔌 **Firmware & MCUs.** C/C++ on ESP32 and ARM, real-time loops, UART · I²C · SPI · CAN.
-- 🤖 **Robotics & embedded Linux.** Raspberry Pi robots, sensors, multithreaded control.
+- 🤖 **Robotics & embedded Linux.** ROS 2 and Gazebo, 3D LiDAR mapping, Raspberry Pi robots, multithreaded control.
 - 👁️ **Vision & edge AI.** OpenCV, YOLO, CNNs with TensorFlow/Keras.
 - 🎛️ **Signal & audio.** DSP on ESP32, audio plugins in C++/JUCE, oscilloscope art.
 
@@ -25,11 +25,12 @@ I work where hardware meets software:
 
 | | Project | Stack |
 |:-:|---|---|
+| 🚁 | **[OctoMap Drone Explorer](https://github.com/ant-one-dev/octomap-drone-explorer)**: a LiDAR drone maps a four-level museum in 3D, in real time. OctoMap's core (log-odds, ray casting, octree pruning, `.bt` export) rebuilt in Python and checked against liboctomap | `ROS 2` `Gazebo` `Python` `3D LiDAR` |
 | 🤖 | **[Vigibot](https://github.com/Sowker/Vigibot)**: autonomous inspection robot that crosses 4 zones (IR line, obstacles, camera line, arrow labyrinth), with a state machine, a Flask control panel and YOLO detection | `Python` `OpenCV` `YOLO` `Raspberry Pi 4` |
 | 🎮 | **Reflex game on FPGA**: a reaction-time game written entirely in VHDL, with an FSM, a PRNG ALU, and a buzzer driven through a transistor on PMOD | `VHDL` `Arty A7` `Vivado` |
 | 🌿 | **[Plant Disease Detector](https://github.com/Vectra777/ML-Project)**: a CNN on PlantVillage (15 classes, ~98 % accuracy) with Grad-CAM/LIME/SHAP, served through FastAPI and Docker | `TensorFlow` `FastAPI` `Docker` |
 | 📡 | **[ESP32 Morse Translator](https://github.com/ant-one-dev/ESP32-Morse-Code-Translator)**: real-time Morse decoding with buzzer feedback and an SPI TFT display | `C++` `ESP32` `PlatformIO` |
-| 🎧 | **ESP32 Bluetooth Audio DSP** *(in progress)*: Bluetooth audio in, effects (reverb, filters, delay), live spectrum on a TFT, DAC out | `C++` `ESP32` `DSP` |
+| 🎧 | **[ESP32 Bluetooth Audio DSP](https://github.com/ant-one-dev/esp32-audiofx)**: Bluetooth audio in, 15 real-time effects (reverb, filters, delay…), FFT spectrum on a TFT, PCM5102 DAC out | `C++` `ESP32` `DSP` |
 | 🧭 | **[TODO · Competence Tracker](https://github.com/Vectra777/todoSystem)**: full-stack skills tracker with a Kanban view, auth and e-mail notifications | `Vue 3` `Express` `Sequelize` |
 
 ➡️ **More projects, with live 3D simulations, on my [portfolio](https://ant-one-dev.github.io/?lang=en).**
@@ -47,6 +48,8 @@ I work where hardware meets software:
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
 ![RTOS](https://img.shields.io/badge/RTOS-2E3440?style=flat-square)
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=flat-square)
 
 **Languages**
 ![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
@@ -80,4 +83,4 @@ I work where hardware meets software:
 
 ### 🌱 Currently
 
-- 🏛️ **ICE EFREI** (tech association): running Arduino, Raspberry Pi and 3D printing workshops
+- 🏛️ **Vice-President of ICE EFREI** (tech association): running Arduino, Raspberry Pi and 3D printing workshops
