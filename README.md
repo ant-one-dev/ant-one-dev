@@ -17,7 +17,7 @@ I work where hardware meets software:
 - 🔌 **Firmware & MCUs.** C/C++ on ESP32 and ARM, real-time loops, UART · I²C · SPI · CAN.
 - 🤖 **Robotics & embedded Linux.** ROS 2 and Gazebo, 3D LiDAR mapping, Raspberry Pi robots, multithreaded control.
 - 👁️ **Vision & edge AI.** OpenCV, YOLO, CNNs with TensorFlow/Keras.
-- 🎛️ **Signal & audio.** DSP on ESP32, audio plugins in C++/JUCE, oscilloscope art.
+- 🎛️ **Signal, audio & comms.** DSP on ESP32, digital modulation and channel coding in MATLAB, audio plugins in C++/JUCE, oscilloscope art.
 
 ---
 
@@ -31,6 +31,7 @@ I work where hardware meets software:
 | 🌿 | **[Plant Disease Detector](https://github.com/Vectra777/ML-Project)**: a CNN on PlantVillage (15 classes, ~98 % accuracy) with Grad-CAM/LIME/SHAP, served through FastAPI and Docker | `TensorFlow` `FastAPI` `Docker` |
 | 📡 | **[ESP32 Morse Translator](https://github.com/ant-one-dev/ESP32-Morse-Code-Translator)**: real-time Morse decoding with buzzer feedback and an SPI TFT display | `C++` `ESP32` `PlatformIO` |
 | 🎧 | **[ESP32 Bluetooth Audio DSP](https://github.com/ant-one-dev/esp32-audiofx)**: Bluetooth audio in, 15 real-time effects (reverb, filters, delay…), FFT spectrum on a TFT, PCM5102 DAC out | `C++` `ESP32` `DSP` |
+| 📶 | **[ModulationLab](https://github.com/ant-one-dev/ModulationLab)**: interactive digital-communications lab with 23 line codes and modulations (ASK, PSK, FSK, QAM, APSK), CRC, Hamming and Viterbi over an AWGN channel, all from scratch, with every simulated BER checked against theory | `MATLAB` `DSP` `Channel coding` |
 | 🧭 | **[TODO · Competence Tracker](https://github.com/Vectra777/todoSystem)**: full-stack skills tracker with a Kanban view, auth and e-mail notifications | `Vue 3` `Express` `Sequelize` |
 
 ➡️ **More projects, with live 3D simulations, on my [portfolio](https://ant-one-dev.github.io/?lang=en).**
